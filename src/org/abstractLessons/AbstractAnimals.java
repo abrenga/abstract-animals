@@ -60,7 +60,7 @@ public abstract class AbstractAnimals implements IAnimals {
 	@Override
 	public void mangia() {
 		if (carnivoro) {
-			System.out.println("mangio prevalemntemente carne");
+			System.out.println("mangio prevalemntemente altri animali");
 		} else {
 			System.out.println("mangio prevalemntemente verdura");
 		}
